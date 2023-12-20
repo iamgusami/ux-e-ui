@@ -1,1 +1,1 @@
-Aplicativo de relacionamentos focado em unir entretenimento com matches, criando novas possibilidades de natchs através de recursos audiovisuais.
+Aplicativo de relacionamentos focado em unir entretenimento com matchs, criando novas possibilidades de matchs através de recursos audiovisuais.
